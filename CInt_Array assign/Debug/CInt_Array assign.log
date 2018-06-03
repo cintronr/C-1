@@ -1,0 +1,4 @@
+﻿  Array Asn.cpp
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_array assign\array asn.cpp(70): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CInt_Array assign.vcxproj -> c:\users\rico's msi\documents\visual studio 2015\Projects\CInt_Array assign\Debug\CInt_Array assign.exe
+  CInt_Array assign.vcxproj -> c:\users\rico's msi\documents\visual studio 2015\Projects\CInt_Array assign\Debug\CInt_Array assign.pdb (Full PDB)
