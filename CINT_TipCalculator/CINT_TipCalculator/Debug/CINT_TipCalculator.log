@@ -1,0 +1,101 @@
+﻿  CINT_TipCalc.cpp
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(9): error C2011: 'Books': 'class' type redefinition
+  c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\books.h(8): note: see declaration of 'Books'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(30): error C2027: use of undefined type 'Books'
+  c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\books.h(8): note: see declaration of 'Books'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(30): error C2146: syntax error: missing ')' before identifier 'TitleInput'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(30): error C2079: 'string' uses undefined class 'Books'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(30): error C2146: syntax error: missing ';' before identifier 'TitleInput'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(30): error C2086: 'int string': redefinition
+  c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(30): note: see declaration of 'string'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(30): error C2146: syntax error: missing ';' before identifier 'Author'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(30): error C2059: syntax error: ')'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(31): error C2143: syntax error: missing ';' before '{'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(31): error C2447: '{': missing function header (old-style formal list?)
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(42): error C2872: 'string': ambiguous symbol
+  c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(30): note: could be 'int string'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2634): note: or       'std::string'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(42): error C2027: use of undefined type 'Books'
+  c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\books.h(8): note: see declaration of 'Books'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(42): error C2086: 'int string': redefinition
+  c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(30): note: see declaration of 'string'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(42): error C2146: syntax error: missing ';' before identifier 'getTitleInput'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(43): error C2143: syntax error: missing ';' before '{'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(43): error C2447: '{': missing function header (old-style formal list?)
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(46): error C2872: 'string': ambiguous symbol
+  c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(30): note: could be 'int string'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2634): note: or       'std::string'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(46): error C2027: use of undefined type 'Books'
+  c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\books.h(8): note: see declaration of 'Books'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(46): error C2086: 'int string': redefinition
+  c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(30): note: see declaration of 'string'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(46): error C2146: syntax error: missing ';' before identifier 'getAuthor'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(47): error C2143: syntax error: missing ';' before '{'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(47): error C2447: '{': missing function header (old-style formal list?)
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(50): error C2027: use of undefined type 'Books'
+  c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\books.h(8): note: see declaration of 'Books'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(52): error C2065: 'NewYear': undeclared identifier
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(54): error C2872: 'string': ambiguous symbol
+  c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(30): note: could be 'int string'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2634): note: or       'std::string'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(54): error C2027: use of undefined type 'Books'
+  c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\books.h(8): note: see declaration of 'Books'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(54): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(54): error C2086: 'int string': redefinition
+  c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(30): note: see declaration of 'string'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(54): error C2146: syntax error: missing ';' before identifier 'getNotes'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(55): error C2143: syntax error: missing ';' before '{'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(55): error C2447: '{': missing function header (old-style formal list?)
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(77): error C2872: 'string': ambiguous symbol
+  c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(30): note: could be 'int string'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2634): note: or       'std::string'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(77): error C2146: syntax error: missing ';' before identifier 'TitleInput'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(78): error C2872: 'string': ambiguous symbol
+  c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(30): note: could be 'int string'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2634): note: or       'std::string'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(78): error C2146: syntax error: missing ';' before identifier 'Author'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(78): error C2065: 'Author': undeclared identifier
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(80): error C2872: 'string': ambiguous symbol
+  c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(30): note: could be 'int string'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2634): note: or       'std::string'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(80): error C2146: syntax error: missing ';' before identifier 'Notes'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(80): error C2065: 'Notes': undeclared identifier
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(89): error C2672: 'getline': no matching overloaded function found
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(89): error C2784: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &' from 'int'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\string(157): note: see declaration of 'std::getline'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(89): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\string(146): note: see declaration of 'std::getline'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(89): error C2784: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &' from 'int'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\string(126): note: see declaration of 'std::getline'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(89): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\string(73): note: see declaration of 'std::getline'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(91): error C2065: 'Author': undeclared identifier
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(95): error C2065: 'Notes': undeclared identifier
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(97): error C2065: 'Author': undeclared identifier
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(97): error C2065: 'Notes': undeclared identifier
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(97): error C2079: 'newBooks' uses undefined class 'Books'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(97): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(97): note: The initializer contains too many elements
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(98): error C2664: 'void std::vector<Books,std::allocator<_Ty>>::push_back(const Books &)': cannot convert argument 1 from 'int' to 'Books &&'
+          with
+          [
+              _Ty=Books
+          ]
+  c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(98): note: Reason: cannot convert from 'int' to 'Books'
+  c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(98): note: use of undefined type 'Books'
+  c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\books.h(8): note: see declaration of 'Books'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(117): error C2027: use of undefined type 'Books'
+  c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\books.h(8): note: see declaration of 'Books'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(117): error C2228: left of '.getTitleInput' must have class/struct/union
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(118): error C2027: use of undefined type 'Books'
+  c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\books.h(8): note: see declaration of 'Books'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(118): error C2228: left of '.getAuthor' must have class/struct/union
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(119): error C2027: use of undefined type 'Books'
+  c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\books.h(8): note: see declaration of 'Books'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(119): error C2228: left of '.getYear' must have class/struct/union
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(120): error C2027: use of undefined type 'Books'
+  c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\books.h(8): note: see declaration of 'Books'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_tipcalculator\cint_tipcalculator\cint_tipcalc.cpp(120): error C2228: left of '.getNotes' must have class/struct/union
