@@ -1,0 +1,4 @@
+﻿  Cint_Assignment book collection and file.cpp
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_assignment book collection\cint_assignment book collection and file.cpp(29): error C3867: 'Animal::setWeight': non-standard syntax; use '&' to create a pointer to member
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_assignment book collection\cint_assignment book collection and file.cpp(29): error C2296: '&': illegal, left operand has type 'void (__thiscall Animal::* )(int)'
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_assignment book collection\cint_assignment book collection and file.cpp(30): error C3867: 'Animal::setWeight': non-standard syntax; use '&' to create a pointer to member
