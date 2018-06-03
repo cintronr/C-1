@@ -1,0 +1,5 @@
+﻿  Cint_FiveFunctionCalculator.cpp
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_fivefunctioncalculator\cint_fivefunctioncalculator.cpp(22): warning C4101: 'valueTwo': unreferenced local variable
+c:\users\rico's msi\documents\visual studio 2015\projects\cint_fivefunctioncalculator\cint_fivefunctioncalculator.cpp(21): warning C4101: 'valueOne': unreferenced local variable
+  Cint_FiveFunctionCalculator.vcxproj -> C:\Users\Rico's MSI\Documents\Visual Studio 2015\Projects\Cint_FiveFunctionCalculator\Debug\Cint_FiveFunctionCalculator.exe
+  Cint_FiveFunctionCalculator.vcxproj -> C:\Users\Rico's MSI\Documents\Visual Studio 2015\Projects\Cint_FiveFunctionCalculator\Debug\Cint_FiveFunctionCalculator.pdb (Full PDB)
